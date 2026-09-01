@@ -8,8 +8,6 @@ const services = [
   'Full Body Massage',
   'Oil Massage',
   'Back & Shoulder Massage',
-  'Body to Body Massage',
-  'Nuru Massage',
   'Foot Massage',
   'Four Hand Massage',
   'Sensual Massage',
