@@ -90,17 +90,6 @@ export const services: Service[] = [
     ],
   },
   {
-    id: 'sv8',
-    name: 'Body-to-Body Massage',
-    description: 'An intimate, full-contact massage experience designed for deep relaxation and complete sensory restoration.',
-    image: 'https://images.pexels.com/photos/7789652/pexels-photo-7789652.jpeg?auto=compress&cs=tinysrgb&w=900',
-    options: [
-      { duration: '60 Min', price: 8000 },
-      { duration: '90 Min', price: 11000 },
-      { duration: '120 Min', price: 15000 },
-    ],
-  },
-  {
     id: 'sv9',
     name: 'Four Hand Massage',
     description: 'Two therapists working in synchronized harmony for an immersive, doubled-intensity relaxation experience.',
@@ -120,17 +109,6 @@ export const services: Service[] = [
       { duration: '60 Min', price: 6500 },
       { duration: '90 Min', price: 9000 },
       { duration: '120 Min', price: 12000 },
-    ],
-  },
-  {
-    id: 'sv11',
-    name: 'Nuru Massage',
-    description: 'A deeply immersive full-body massage using a unique hydrating gel for effortless, fluid strokes and complete sensory relaxation.',
-    image: 'https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg?auto=compress&cs=tinysrgb&w=900',
-    options: [
-      { duration: '60 Min', price: 7000 },
-      { duration: '90 Min', price: 10000 },
-      { duration: '120 Min', price: 13000 },
     ],
   },
 ];
